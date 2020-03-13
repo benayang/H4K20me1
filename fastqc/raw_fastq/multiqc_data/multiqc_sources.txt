@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Old-H4K20me1-1_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-1_R1_001_fastqc.zip
+FastQC	all_sections	Old-H4K20me1-1_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-1_R2_001_fastqc.zip
+FastQC	all_sections	Old-H4K20me1-2_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-2_R1_001_fastqc.zip
+FastQC	all_sections	Old-H4K20me1-2_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-2_R2_001_fastqc.zip
+FastQC	all_sections	Old-H4K20me1-3_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-3_R1_001_fastqc.zip
+FastQC	all_sections	Old-H4K20me1-3_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Old-H4K20me1-3_R2_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-1_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-1_R1_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-1_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-1_R2_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-2_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-2_R1_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-2_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-2_R2_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-3_R1_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-3_R1_001_fastqc.zip
+FastQC	all_sections	Young-H4K20me1-3_R2_001	/nas/homes/benyang/H4K20me1/fastqc/raw_fastq/Young-H4K20me1-3_R2_001_fastqc.zip
