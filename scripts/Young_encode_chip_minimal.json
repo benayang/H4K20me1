@@ -1,0 +1,21 @@
+{
+    "chip.title" : "Young_H4K20me1 (paired-end)",
+    "chip.description" : "This is the input JSON file for Joe's Young H4K20me1 CUT&TAG paired-end samples.",
+
+    "chip.pipeline_type" : "histone",
+    "chip.aligner" : "bowtie2",
+    "chip.align_only" : false,
+    "chip.true_rep_only" : false,
+
+    "chip.genome_tsv" : "https://storage.googleapis.com/encode-pipeline-genome-data/genome_tsv/v1/mm10_caper.tsv",
+
+    "chip.paired_end" : true,
+    "chip.ctl_paired_end" : true,
+
+    "chip.fastqs_rep1_R1" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-1-trimmed_1.fastq.gz" ],
+    "chip.fastqs_rep1_R2" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-1-trimmed_2.fastq.gz" ],
+    "chip.fastqs_rep2_R1" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-2-trimmed_1.fastq.gz" ],
+    "chip.fastqs_rep2_R2" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-2-trimmed_2.fastq.gz" ], 
+    "chip.fastqs_rep3_R1" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-3-trimmed_1.fastq.gz" ],
+    "chip.fastqs_rep3_R2" : [ "/nas/homes/benyang/H4K20me1/trim_fastq/Young-H4K20me1-3-trimmed_2.fastq.gz" ]
+}
