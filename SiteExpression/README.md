@@ -1,4 +1,4 @@
-Find nearest TSS to H4K20me1 sites.
+Find TSS within 5kb of H4K20me1 site boundaries.
 ```
 get_5kb_tss_genename.sh
 ```
