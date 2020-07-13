@@ -1,6 +1,6 @@
 Find nearest TSS to H4K20me1 sites.
 ```
-get_nearest_tss_genename.sh
+get_5kb_tss_genename.sh
 ```
 Get unique gene names at Young and Aged sites.
 ```
